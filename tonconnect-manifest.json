@@ -1,8 +1,8 @@
 {
     "url": "https://g6sz.github.io/pokechainbot-tonconnect/TonConnect/tonconnect-manifest.json/",
     "name": "PokeChainBot",
-    "iconUrl": "https://seunome.github.io/pokechainbot-tonconnect/icon.png",
-    "termsOfUseUrl": "https://seunome.github.io/pokechainbot-tonconnect/terms",
-    "privacyPolicyUrl": "https://seunome.github.io/pokechainbot-tonconnect/privacy"
+    "iconUrl": "https://g6sz.github.io/pokechainbot-tonconnect/icon.png",
+    "termsOfUseUrl": "https://g6sz.github.io/pokechainbot-tonconnect/terms.html",
+    "privacyPolicyUrl": "https://g6sz.github.io/pokechainbot-tonconnect/privacy.html"
   }
   
